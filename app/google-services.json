@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256230469436",
+    "firebase_url": "https://emergency-app-76369.firebaseio.com",
+    "project_id": "emergency-app-76369",
+    "storage_bucket": "emergency-app-76369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256230469436:android:ea665909e33886a937f839",
+        "android_client_info": {
+          "package_name": "com.emergencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256230469436-hlfden5cpuqlm8e93eujqb4tqfjeumi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBFbkkBbErfFZYFuY0RYtoCernmg_deQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256230469436-hlfden5cpuqlm8e93eujqb4tqfjeumi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
